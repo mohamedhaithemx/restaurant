@@ -1,2 +1,12 @@
 # restaurant
-A restaurant management system built with Python OOP. Manages halls, tables, menus, and orders via a CLI interface. Features inheritance, encapsulation, and properties. Includes VIP discount logic, input validation, and error handling. Main dishes and extras are structured using OOP principles.
+A restaurant management system built with Python using Object-Oriented Programming (OOP) principles.
+
+Features:
+- Manage halls and tables with real-time occupancy tracking
+- Browse a structured menu with main dishes and extras
+- Place and track orders per table
+- VIP table support with automatic 10% discount
+- Input validation and error handling
+- Clean CLI interface for easy navigation
+
+Built with: Python | OOP | Inheritance | Properties | Encapsulation
