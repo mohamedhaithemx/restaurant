@@ -54,5 +54,3 @@ class Hall:
     def __init__(self,number):
         self.number=number
         self.tables=[Table(i)for i in range(1,6)]
-
-# hi git
